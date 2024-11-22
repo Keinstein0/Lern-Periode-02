@@ -1,5 +1,5 @@
 # Lern-Periode-02
-Janky Graphic engine in console cursed creation thing
+Janky Graphic engine in console cursed creation thing. Code is in Neo's repo.
 *25.10 bis 20.12*
 
 Grob-Planung
